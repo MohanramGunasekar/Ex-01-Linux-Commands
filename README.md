@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-Name : Priyadharshini R K
-Reg No : 212223040155
+# Name : Priyadharshini R K
+# Reg No : 212223040155
 ## Aim:
 
 To study the execution of various Linux operating system commands.
